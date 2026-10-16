@@ -2,6 +2,7 @@
 # Escuela Colombiana de Ingeniería – Arquitecturas de Software  
 
 ---
+## David Santiago Cajamarca Cadena
 
 ## 📋 Requisitos
 - Java 21
