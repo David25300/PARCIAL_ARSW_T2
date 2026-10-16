@@ -1,0 +1,14 @@
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\BlueprintsApplication.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\config\OpenApiConfig.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\controllers\BlueprintsAPIController.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\filters\BlueprintsFilter.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\filters\IdentityFilter.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\filters\RedundancyFilter.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\filters\UndersamplingFilter.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\model\Blueprint.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\model\Point.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\persistence\BlueprintNotFoundException.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\persistence\BlueprintPersistence.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\persistence\BlueprintPersistenceException.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\persistence\InMemoryBlueprintPersistence.java
+C:\Users\david.cajamarca-c\Downloads\ParcialPractico-2026-Corte2\src\main\java\edu\eci\arsw\api\v1\blueprints\services\BlueprintsServices.java
